@@ -42,5 +42,10 @@ namespace FormTest
             cmbPos.SelectedIndex = 0;
             cmbMode.SelectedIndex = 0;
         }
+
+        private void btnCreate_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

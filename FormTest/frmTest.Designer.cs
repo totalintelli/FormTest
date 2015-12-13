@@ -99,6 +99,7 @@
             this.btnCreate.TabIndex = 6;
             this.btnCreate.Text = "폼 생성";
             this.btnCreate.UseVisualStyleBackColor = true;
+            this.btnCreate.Click += new System.EventHandler(this.btnCreate_Click);
             // 
             // frmTest
             // 
