@@ -114,6 +114,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmTest";
             this.Text = "폼 생성 테스트";
+            this.Load += new System.EventHandler(this.frmTest_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
