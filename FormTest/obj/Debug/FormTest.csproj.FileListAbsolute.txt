@@ -1,1 +1,10 @@
 E:\workspace\FormTest\FormTest\bin\Debug\FormTest.exe.config
+E:\workspace\FormTest\FormTest\bin\Debug\FormTest.exe
+E:\workspace\FormTest\FormTest\bin\Debug\FormTest.pdb
+E:\workspace\FormTest\FormTest\obj\Debug\FormTest.csprojResolveAssemblyReference.cache
+E:\workspace\FormTest\FormTest\obj\Debug\FormTest.frmCreate.resources
+E:\workspace\FormTest\FormTest\obj\Debug\FormTest.frmTest.resources
+E:\workspace\FormTest\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+E:\workspace\FormTest\FormTest\obj\Debug\FormTest.csproj.GenerateResource.Cache
+E:\workspace\FormTest\FormTest\obj\Debug\FormTest.exe
+E:\workspace\FormTest\FormTest\obj\Debug\FormTest.pdb
