@@ -99,6 +99,7 @@
             this.btnOK.TabIndex = 6;
             this.btnOK.Text = "확인";
             this.btnOK.UseVisualStyleBackColor = true;
+            this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
             // 
             // frmCreate
             // 
@@ -114,6 +115,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmCreate";
             this.Text = "생성된 폼";
+            this.Load += new System.EventHandler(this.frmCreate_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
