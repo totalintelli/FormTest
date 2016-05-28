@@ -8,3 +8,5 @@ E:\workspace\FormTest\FormTest\obj\Debug\FormTest.Properties.Resources.resources
 E:\workspace\FormTest\FormTest\obj\Debug\FormTest.csproj.GenerateResource.Cache
 E:\workspace\FormTest\FormTest\obj\Debug\FormTest.exe
 E:\workspace\FormTest\FormTest\obj\Debug\FormTest.pdb
+E:\workspace\FormTest\FormTest\bin\Debug\FormTest.exe.CodeAnalysisLog.xml
+E:\workspace\FormTest\FormTest\bin\Debug\FormTest.exe.lastcodeanalysissucceeded

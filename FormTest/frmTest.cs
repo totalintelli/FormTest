@@ -16,7 +16,7 @@ namespace FormTest
         {
             InitializeComponent();
         }
-
+        
         private void frmTest_Load(object sender, EventArgs e)
         {
             // 콤보 상자 초기값 설정
